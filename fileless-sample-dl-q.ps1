@@ -1,0 +1,1 @@
+iwr -uri "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/51_Q_di_picche.jpg/1200px-51_Q_di_picche.jpg" -OutFile "queen.jpg" 
